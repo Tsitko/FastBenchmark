@@ -4,7 +4,7 @@ which you can use in google colab (https://colab.research.google.com/).
 All you need is a dataset in scv format, and a target variable name
 (what you want to predict).  
 
-Project site: https://www.fastbenchmark.me/
+Project site: https://www.fastbenchmark.me/google-colab
 
 ## Install requirements
 You can install all project requirements from requirements.txt
@@ -15,6 +15,7 @@ python -m pip install -r requirements.txt --user
 ```
 
 ## Quick start
+Demo video: https://youtu.be/8xw9CBYveJQ
 Here is an example of how to use FastBenchmark app to get a report in 
 google colab
 
