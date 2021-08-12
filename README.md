@@ -14,10 +14,10 @@ using the following command:
 python -m pip install -r requirements.txt --user
 ```
 
-## Quick start
-Demo video: https://youtu.be/8xw9CBYveJQ
+## Quick start  
 Here is an example of how to use FastBenchmark app to get a report in 
-google colab
+google colab  
+Demo video: https://youtu.be/8xw9CBYveJQ
 
 ### Generate the report
 To generate the report you need to:  
